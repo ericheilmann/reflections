@@ -18,3 +18,5 @@ What is the result of merging two branches together? Why do we represent it in t
 It combines the commits for both of the branches onto a single branch. It graphically shows the work flow.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pro: automatic merging is less tedious than manual merging of code.
+Con: there can be cases of code changes from 2 authors that conflict in unexpected ways and creates bugs.
