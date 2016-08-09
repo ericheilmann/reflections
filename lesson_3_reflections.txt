@@ -1,33 +1,28 @@
-When would you want to use a remote repository rather than keeping all your work
-local?
+When would you want to use a remote repository rather than keeping all your work local?
 
     If you want to share your files with other team members for collaboration.
 
-Why might you want to always pull changes manually rather than having Git
-automatically stay up-to-date with your remote repository?
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
     Files could be in work by different team members, and you would only want to 
     pull files when they are ready for review/integration. Otherwise you may be
     pulling work in progress that is not complete.
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
     Branch allows you to make changes in a repository without affecting the main line code. Use this to make experimental changes to your code.
     Clones allow you to make a copy of the entire repository. This will allow you to create a new version without affecting the old version.
     Forks allow you to copy the entire repository on Github. This allows you to make a new version without affecting the old version, and allows you to work on a copy of a repository that you may not have permission to edit.
 
-What is the benefit of having a copy of the last known state of the remote
-stored locally?
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
-    Fill in your answer here
+    This allows you to know if changes have been made on the remote copy since you lasted edited locally, and vice versa.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
     Fill in your answer here
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
     Fill in your answer here
